@@ -1,6 +1,6 @@
 # Omed's Userscripts
 
-## Numnber 1
+## Number 1
 
 ### Redirect YouTube Link
 
