@@ -1,11 +1,11 @@
 # Omed's Userscripts
 
-## Project One
+## Numnber 1
 
 ### Redirect YouTube Link
 
 Description:
-This userscript automatically redirects YouTube links that contain redirection parameters to their direct links.
+Hate seeing that youtube redirect page? Well this is the solution!
 
 ```javascript
 // ==UserScript==
@@ -32,3 +32,7 @@ This userscript automatically redirects YouTube links that contain redirection p
         console.log("Direct link not found.");
     }
 })();
+
+```
+
+## Numnber 2
