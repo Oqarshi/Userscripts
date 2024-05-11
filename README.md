@@ -33,7 +33,7 @@ Hate seeing that youtube redirect page? Well this is the solution!
     }
 })();
 
-```
+```javascript
 
 ## Number 2
 
