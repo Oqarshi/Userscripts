@@ -33,7 +33,7 @@ Hate seeing that youtube redirect page? Well this is the solution!
     }
 })();
 
-```javascript
+```
 
 ## Number 2
 
@@ -42,7 +42,7 @@ Hate seeing that youtube redirect page? Well this is the solution!
 Description:
 Want to Rewind or Fastforward on youtube shorts? Well this is the solution!
 
-```
+```javascript
 // ==UserScript==
 // @name         Skip stuff
 // @namespace    http://tampermonkey.net/
